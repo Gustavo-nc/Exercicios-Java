@@ -1,0 +1,1 @@
+crie uma classe que represente um contato da agenda do seu celular.
